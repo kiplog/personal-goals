@@ -15,24 +15,23 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 6. Apply for jobs with confidence
 7. Finish stuff on this list
 
-# January 20-27, 2017
+# May 12-14, 2017
 
-### This Week's Goal: Finish things.
+### This Week's Goal: Prep for ES6 and WP 3 classes.
 
 ## Things I'll Do This Week:
-- [x] Invoice December work
+- [x] Invoice April work
 - [ ] Watch 4 videos from my content list about ES6
 - [ ] Watch 4 videos from my content list about production/build tools
-- [ ] Spend 10 hours on linkedin learning
+- [ ] Watch 4 videos from my content list about WordPress theme dev
 - [ ] Add 3 animations to codepen
 - [ ] Install WP and blog at paulmccann.com
 - [ ] Finish prototype portfolio at paulmccann.com
-- [ ] UFP MailChimp plugin and form page
-- [ ] Start ES6 slides
-- [ ] Send Una a nice email (una.kravets@gmail.com)
+- [ ] Finish ES6 slides
+- [ ] Finish Git slides
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
-### Things I'll Do This Month: January 2017
+### Things I'll Do This Month: May 2017
 - [ ] Code example DBC quiz in WP
 - [ ] Prototype responsive DBC
 - [ ] Submit a proposal to HTS
