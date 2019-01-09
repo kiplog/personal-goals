@@ -12,30 +12,29 @@ I'm open sourcing these goals for accessibility across computers I use, transpar
 3. Use github more
 4. Master production tools
 5. Learn React.js
-6. Apply for jobs with confidence
-7. Finish stuff on this list
+6. Finish stuff on this list
 
-# May 12-14, 2017
+# Jan. 2019
 
-### This Week's Goal: Prep for ES6 and WP 3 classes.
+### This Week's Goal: Prep for Git and Github class.
 
 ## Things I'll Do This Week:
-- [x] Invoice April work
+- [x] Invoice Jan work
+- [x] Update WebDev slides
 - [ ] Watch 4 videos from my content list about ES6
 - [ ] Watch 4 videos from my content list about production/build tools
 - [ ] Watch 4 videos from my content list about WordPress theme dev
-- [ ] Add 3 animations to codepen
+- [ ] Add 2 animations to codepen
 - [ ] Install WP and blog at paulmccann.com
 - [ ] Finish prototype portfolio at paulmccann.com
-- [ ] Finish ES6 slides
 - [ ] Finish Git slides
 - [x] Read [this blog post](http://una.github.io/personal-goals-guide)
 
-### Things I'll Do This Month: May 2017
-- [ ] Code example DBC quiz in WP
-- [ ] Prototype responsive DBC
-- [ ] Submit a proposal to HTS
-- [ ] Come up with a new side project
+### Things I'll Do This Month: Jan 2019
+- [ ] Finish DE migration
+- [ ] Finish FOHP theme
+- [ ] Submit a proposal to Tim Rhoze
+- [ ] Start TerMatt WP site
 
 ### Backlog: Side Projects 
 
